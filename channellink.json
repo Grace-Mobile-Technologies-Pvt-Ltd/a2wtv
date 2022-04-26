@@ -1,0 +1,13 @@
+[ {
+  "channelLink" : "#",
+  "channelName" : "test channel 1"
+}, {
+  "channelLink" : "#",
+  "channelName" : "test channel 2"
+}, {
+  "channelLink" : "#",
+  "channelName" : "test channel 3"
+}, {
+  "channelLink" : "#,
+  "channelName" : "test channel 4"
+} ]
